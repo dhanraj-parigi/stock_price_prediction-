@@ -10,8 +10,8 @@ Built with Python, trained on historical stock data, and deployed as a web app u
 - 🌐 Interactive prediction app with Streamlit
 
 📁 stock_predictor
-├── app.py 👉 Streamlit web app
-├── linear_model.pkl 👉 Trained ML model
-└── stock_model.ipynb 👉 Jupyter notebook (EDA + training)
-    ▶️ Run the App
-#MachineLearning #Streamlit #LinearRegression #StockPrediction #DevElet #LearningByDoing
+| app.py 👉 Streamlit web app |
+ | linear_model.pkl 👉 Trained ML model |
+| stock_model.ipynb 👉 Jupyter notebook (EDA + training) |
+  |  ▶️ Run the App |
+
